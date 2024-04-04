@@ -1,0 +1,4 @@
+Ryuu.exe
+Made by Ptr35
+Lang:C#
+no edit reg, but rewrite mbr.
